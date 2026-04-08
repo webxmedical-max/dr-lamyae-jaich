@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Sitemap: https://dr-lamyae-jaich.webxmed.ma/sitemap.xml
